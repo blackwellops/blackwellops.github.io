@@ -14,15 +14,25 @@
 
 [pacaur](https://aur.archlinux.org/packages/pacaur)
 
-python-dockerfile-parse 
+[python-dockerfile-parse](https://aur.archlinux.org/packages/python-dockerfile-parse)
 
-hopper4 
+[hopper4](https://aur.archlinux.org/packages/hopper4
 
-python-conda-package-streaming 
+[python-conda-package-streaming](https://aur.archlinux.org/packages/python-conda-package-streaming)
 
-python-conda-package-handling 
+[python-conda-package-handling](https://aur.archlinux.org/packages/python-conda-package-handling)
 
-cpython-argbind-git 
+[python-argbind-git](https://aur.archlinux.org/packages/python-argbind-git)
+
+[python-urlman](https://aur.archlinux.org/packages/python-urlman)
+
+[python-apptools](https://aur.archlinux.org/packages/python-apptools)
+
+[python-ase](https://aur.archlinux.org/packages/python-ase)
+
+[atom-ng-bin](https://aur.archlinux.org/packages/atom-ng-bin)
+
+[htmlhint](https://aur.archlinux.org/packages/htmlhint)
 
 
 ## Gentoo GURU 
