@@ -43,9 +43,13 @@ cpython-argbind-git
 [pmbootstrap-2.3.1][pmbootstrap-2.3.1]
 
 
-
-
-
 [pmbootstrap-3.0.0]: https://src.fedoraproject.org/rpms/pmbootstrap/c/f0db6caad54290d48a6e3ccf5b0f26c45c7a73ad?branch=rawhide
 [pmbootstrap-2.3.1]: https://src.fedoraproject.org/rpms/pmbootstrap/c/613271ac8c52aa5d3ba03ba472b53e26ebe2451b?branch=rawhide
 [pmbootstrap-2.3.3]: https://src.fedoraproject.org/rpms/pmbootstrap/c/2571b8550d4ab31b1d4d23e2133ce25e17262d12?branch=rawhide
+
+
+## PostmarketOS
+ 
+[Issue #2475][issue-2475]
+
+[issue-2475]: https://gitlab.postmarketos.org/postmarketOS/pmbootstrap/-/issues/2475
