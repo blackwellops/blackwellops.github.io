@@ -1,7 +1,7 @@
 # Open Source Contributions (blackwell)
 
 [CV/Resume](https://blackwellops.github.io/cv24.pdf)
-
+[LinkedIn](https://www.linkedin.com/in/blackwelljason/)
    
 ## Void Linux
 
