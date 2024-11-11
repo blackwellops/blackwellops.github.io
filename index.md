@@ -16,7 +16,7 @@
 
 [python-dockerfile-parse](https://aur.archlinux.org/packages/python-dockerfile-parse)
 
-[hopper4](https://aur.archlinux.org/packages/hopper4
+[hopper4](https://aur.archlinux.org/packages/hopper4)
 
 [python-conda-package-streaming](https://aur.archlinux.org/packages/python-conda-package-streaming)
 
