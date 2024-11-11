@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8" />
-    <title>FOSS by Jason Blackwell</title>
-</head>
-<body>
-    <p>
+
     Void Linux
     
     https://github.com/void-linux/void-packages/pull/52980/commits
@@ -21,10 +14,6 @@
     python-conda-package-handling
      cpython-argbind-git   
     
-    </p>
-</body>
-</html>
-
 
 
 
